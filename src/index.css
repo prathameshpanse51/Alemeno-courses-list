@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li {
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  font-weight: 500;
+  margin-left: 10px;
+  list-style-type: disc;
+  color: black;
+}
+
+details {
+  height: auto;
+  overflow: hidden;
+  transition: max-height ease-in-out;
+  transition-duration: var(--duration, 1s);
+}
+
+summary {
+  cursor: pointer;
+}
+
+details > summary {
+  list-style-type: "▶️";
+}
+
+details[open] > summary {
+  list-style-type: "🔽";
+}
+
+#completedCourse,
+#enrolledCourse {
+  transform: scale(0);
+  transition: transform 0.5s;
+}
+
+.browseHeart {
+  width: 30px;
+  float: right;
+}
+.browseHeart-active {
+  width: 2rem;
+  fill: red !important;
+  stroke: white !important;
+}
