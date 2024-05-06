@@ -96,6 +96,9 @@ export default function CoursesList() {
         id: id,
       },
     ]);
+    setTimeout(() => {
+      window.location.reload();
+    }, 1000);
   };
 
   const deletelike = async (courseName, name) => {
