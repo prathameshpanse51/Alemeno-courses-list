@@ -14,9 +14,12 @@
       npm run dev
     ```
 
+ ## Demo Video
+
+
  ## ScreenShots
- 1. Landing Page
- ![image](https://github.com/prathameshpanse51/Alemeno-courses-list/assets/93512551/7281b018-376a-490c-baf2-53af02438d28)
+1. Landing Page
+   ![image](https://github.com/prathameshpanse51/Alemeno-courses-list/assets/93512551/7281b018-376a-490c-baf2-53af02438d28)
 2. Home Page
    ![image](https://github.com/prathameshpanse51/Alemeno-courses-list/assets/93512551/047349c7-7532-4356-b362-d42fbc21cb85)
 3. Course Page
