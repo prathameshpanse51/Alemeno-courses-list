@@ -20,7 +20,7 @@
 2. Home Page
    ![image](https://github.com/prathameshpanse51/Alemeno-courses-list/assets/93512551/047349c7-7532-4356-b362-d42fbc21cb85)
 3. Course Page
-   ![image](https://github.com/prathameshpanse51/Alemeno-courses-list/assets/93512551/cae71748-7494-48ab-9c6f-7e1ade3d6f64)
+   ![image](https://github.com/prathameshpanse51/Alemeno-courses-list/assets/93512551/e0def32a-9084-4d1e-bde4-f8cbc1f30eee)
    ![image](https://github.com/prathameshpanse51/Alemeno-courses-list/assets/93512551/b236e7bf-d654-4994-964c-d458f6ceb7e2)
 4. Dashboard
    ![image](https://github.com/prathameshpanse51/Alemeno-courses-list/assets/93512551/3fe8df55-4235-47df-9bd3-c2d8b51e7a12)
