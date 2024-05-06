@@ -13,3 +13,6 @@
     ```
       npm run dev
     ```
+
+ ## ScreenShots
+ ![image](https://github.com/prathameshpanse51/Alemeno-courses-list/assets/93512551/7281b018-376a-490c-baf2-53af02438d28)
