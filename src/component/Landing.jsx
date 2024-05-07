@@ -48,7 +48,7 @@ export default function Landing() {
         </div>
       </section>
 
-      <section className="px-2 py-6 md:py-32 md:pb-0 bg-white md:px-0">
+      <section className="px-2 py-6 md:py-32 md:pb-0 bg-white md:px-0 h-[100vh]">
         <div className="container items-center max-w-6xl px-8 mx-auto xl:px-5">
           <div className="flex flex-wrap items-center sm:-mx-3">
             <div className="w-full md:w-1/2 md:px-3">
