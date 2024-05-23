@@ -9,7 +9,7 @@
     ```sh
       npm install
     ```
-3. Run the project locally to see all CometChat features in action:
+3. Run the project locally to see all features in action:
     ```
       npm run dev
     ```
